@@ -82,3 +82,20 @@ python main.py
 ```
 ---
 ## 📁 Estrutura do projeto
+
+```
+ai-qa-bot/
+│
+├── app/
+│   ├── api.py              # API de teste (FastAPI)
+│   ├── analyzer.py        # Análise de resultados
+│   ├── runner.py          # Executor de testes
+│   ├── test_generator.py  # Gerador de testes (IA-ready)
+│   ├── logger.py          # Logs e registros
+│   └── report.json        # Relatório gerado
+│
+├── tests/
+│   └── test_api.py        # Testes automatizados
+│
+└── main.py                # Orquestrador principal
+```
