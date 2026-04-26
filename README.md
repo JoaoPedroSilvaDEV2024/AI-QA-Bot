@@ -69,3 +69,17 @@ Este projeto simula uma ferramenta interna de QA utilizada por times de engenhar
 
 ```bash
 pip install fastapi uvicorn pytest requests
+```
+### 2. Rodar API (ambiente de teste)
+
+```bash
+python -m uvicorn app.api:app --reload
+```
+### 3. Rodar API (ambiente de teste)
+
+```bash
+python main.py
+```
+
+
+
