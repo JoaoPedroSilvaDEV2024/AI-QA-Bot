@@ -75,24 +75,10 @@ pip install fastapi uvicorn pytest requests
 ```bash
 python -m uvicorn app.api:app --reload
 ```
-### 3. Rodar API (ambiente de teste)
+### Executar AI QA Bot
 
 ```bash
-
----
-
-## 📊 Como funciona
-
-1. O sistema analisa um endpoint ou serviço
-2. Gera automaticamente casos de teste
-3. Executa requisições HTTP
-4. Valida respostas retornadas
-5. Gera um relatório final de qualidade
-
----
-
 python main.py
 ```
-
-
-
+---
+## 📁 Estrutura do projeto
