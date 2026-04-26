@@ -99,3 +99,14 @@ ai-qa-bot/
 │
 └── main.py                # Orquestrador principal
 ```
+## 📈 Exemplo de resultado
+
+```bash
+{
+  "total": 5,
+  "passed": 4,
+  "failed": 1,
+  "accuracy": 80.0
+}
+```
+---
