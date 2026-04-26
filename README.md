@@ -110,3 +110,22 @@ ai-qa-bot/
 }
 ```
 ---
+## 🎯 Objetivo do projeto
+Este projeto foi criado com foco em:
+- Automação de QA em sistemas reais
+- Aplicação prática de IA em engenharia de software
+- Simulação de ferramentas internas de empresas
+- Portfólio profissional para vagas de backend / QA / IA
+---
+## 🚀 Próximas melhorias
+- Integração com OpenAI para geração real de testes
+- Dashboard visual de QA (Streamlit)
+- Testes de performance (carga e stress)
+- Integração com GitHub Actions (CI/CD)
+- Suporte a microservices
+---
+## 👨‍💻 Autor
+Desenvolvido por João Pedro Silva
+---
+## ⭐ Nota
+Este projeto simula um ambiente real de engenharia de qualidade de software, com foco em automação, IA e testes inteligentes.
